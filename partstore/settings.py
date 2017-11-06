@@ -83,9 +83,9 @@ WSGI_APPLICATION = 'partstore.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'ram_part_db',
-        'USER': 'richardmedina',
-        'PASSWORD': '1',
+        'NAME': 'local part db here',
+        'USER': 'db username here',
+        'PASSWORD': 'password here',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
