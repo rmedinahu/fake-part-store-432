@@ -1,0 +1,576 @@
+bonnet/hood
+bumper
+cowl screen
+decklid
+fascia rear and support
+fender
+front clip
+front fascia and header panel
+grille (also called grill)
+pillar and hard trim
+quarter panel
+front right outer door
+front left side outer door handle
+rear right side outer door handle
+rear left side outer door handle
+front right side inner door handle
+front left side inner door handle
+rear right side inner door handle
+rear left side inner door handle
+back door outer door handles
+front right side window motor
+front left side window motor
+rear right side window motor
+rear left side window motor
+door control module
+door seal
+door water-shield
+hinge
+door latch
+door lock and power door locks
+central-locking
+fuel tank (or fuel filler) door
+radiator core support
+rocker
+roof rack
+spoiler
+front spoiler
+rear spoiler
+rims
+hubcap
+tire/tyre
+trim package
+trunk/boot/hatch
+trunk/boot/latch
+valance
+welded assembly
+front right side door glass
+front left side door glass
+rear right side door glass
+rear left side door glass
+rear right quarter glass
+rear left quarter glass
+sunroof
+sunroof motor
+sunroof rail
+sunroof glass
+window motor
+window regulator
+windshield
+windshield washer motor
+window seal
+antenna assembly
+antenna cable
+radio and media player
+speaker
+tuner
+subwoofer
+video player
+cameras
+backup camera
+dashcam
+charging system
+alternator
+alternator bearing
+alternator bracket
+alternator fan
+rectifier
+regulator
+stator
+rotor
+pulley
+diode & plate assembly
+rotor assembly
+air retainer
+housing
+carbon brushes
+slip rings
+coil
+voltage regulator
+electrical supply system
+battery
+performance battery
+battery box
+battery cable terminal
+battery cable
+battery control system
+battery plate
+battery tray
+battery cap
+sulfuric acid (h2so4)
+distilled water
+voltage regulator
+gauges and meters
+ammeter
+clinometer
+dynamometer
+fuel gauge
+manometer
+hydrometer
+odometer
+speedometer
+tachometer (also called rev counters)
+temperature gauge
+tire pressure gauge
+vacuum gauge
+voltmeter
+water temperature meter
+oil pressure gauge
+ignition electronic system
+sparking cable
+distributor
+distributor cap
+electronic timing controller
+ignition box
+ignition coil
+ignition coil connector
+ignition coil parts
+ignition magneto
+spark plug
+glow plug
+lighting and signaling system
+main article: automotive lighting
+engine bay lighting
+fog light 
+spotlight
+headlight 
+headlight motor
+interior light and lamp
+license plate lamp
+side lighting
+tail light
+tail light cover
+indicator light
+turn signal control
+sensors
+airbag sensors
+automatic transmission speed sensor
+camshaft position sensor
+crankshaft position sensor
+coolant temperature sensor
+crankshaft position sensor
+fuel level sensor
+fuel pressure sensor
+knock sensor
+light sensor
+map sensor
+mass airflow sensor
+oil level sensor
+oil pressure sensor
+oxygen sensor
+throttle position sensor
+starting system
+starter
+starter drive
+starter motor
+starter solenoid
+glowplug
+electrical switches
+battery
+door switch
+ignition switch
+power window switch
+steering column switch
+switch cover
+switch panel
+thermostat
+frame switch
+fan ditch
+parts and functions of starter system
+wiring harnesses
+air conditioning harness
+engine compartment harness
+interior harness
+floor harness
+main harness
+control harness
+miscellaneous
+air bag control module
+alarm and siren
+central locking system
+chassis control computer
+cruise control computer
+door contact
+engine computer and management system
+engine control unit
+fuse
+fuse box
+ground strap
+grab handle
+navigation system
+performance chip
+performance monitor
+relay connector
+remote lock
+shift improver
+speed controller
+speedometer calibrator
+transmission computer
+wiring connector
+interior
+dash panels
+floor components and parts
+carpet and other floor material
+center console
+other components
+trap
+roll cage or exo cage
+car seat
+arm rest
+bench seat
+bucket seat
+children and baby car seat
+fastener
+headrest
+seat belt
+seat bracket
+seat cover
+seat track
+other seat components
+back seat
+power-train and chassis
+braking system
+anti-lock braking system (abs)
+abs steel pin
+fr side sensor
+fl side sensor
+rr side sensor
+rl side sensor
+abs motor circuit
+adjusting mechanism
+anchor
+bleed nipple
+brake backing plate
+brake backing pad
+brake cooling duct
+brake disc
+brake fluid
+brake drum
+brake lining
+brake pad
+brake pedal
+brake piston
+brake pump
+brake roll
+brake rotor
+brake servo
+brake shoe
+brake lining
+shoe web
+brake warning light
+calibrated friction brake
+caliper
+combination valve
+dual circuit brake system
+hold-down springs
+hose
+brake booster hose
+air brake nylon hose
+brake duct hose
+hydraulic booster unit
+load-sensing valve
+master cylinder
+metering valve
+other braking system parts
+park brake lever/handle 
+pressure differential valve
+proportioning valve
+reservoir
+shoe return spring
+tyre
+vacuum brake booster
+wheel cylinder 
+wheel stud
+engine components and parts
+diesel engine
+petrol engine
+accessory belt
+air duct
+air intake housing
+air intake manifold
+camshaft
+camshaft bearing
+camshaft fastener
+camshaft follower
+camshaft locking plate
+camshaft pushrod
+camshaft spacer ring
+camshaft phase variator
+connecting rod
+connecting rod bearing
+connecting rod bolt
+connecting rod washer
+crank case
+crank pulley
+crankshaft
+crankshaft oil seal
+cylinder head
+cylinder head cover
+other cylinder head cover parts
+cylinder head gasket
+distributor
+distributor cap
+drive belt
+engine block
+engine block
+engine cradle
+engine shake damper and vibration absorber
+engine valve
+fan belt
+gudgeon pin (wrist pin)
+harmonic balancer
+heater
+mounting
+piston
+piston pin and crank pin
+piston pin bush
+piston ring and circlip
+poppet valve
+pcv valve (positive crankcase ventilation valve)
+pulley part
+rocker arm
+rocker cover
+starter motor
+starter pinion
+starter ring
+turbocharger and supercharger
+tappet
+timing tape
+valve cover
+valve housing
+valve spring
+valve stem seal
+water pump pulley
+engine cooling system
+air blower
+coolant hose (clamp)
+cooling fan
+fan blade
+fan clutch
+radiator
+radiator bolt
+radiator (fan) shroud
+radiator gasket
+radiator pressure cap
+overflow tank
+thermostat
+water neck
+water neck o-ring
+water pipe
+water pump
+water pump gasket
+water tank
+engine oil system
+oil filter
+oil gasket
+oil pan
+oil pipe
+oil pump
+oil strainer
+exhaust system
+see also: exhaust gas re-circulation
+catalytic converter
+exhaust clamp and bracket
+exhaust flange gasket
+exhaust gasket
+exhaust manifold
+exhaust manifold gasket
+exhaust pipe
+heat shield
+heat sleeving and tape
+resonator
+muffler (silencer)
+spacer ring
+fuel supply system
+air filter
+carburetor
+carburetor parts
+choke cable
+egr valve
+fuel cap
+fuel cell
+fuel cell component
+fuel cooler
+fuel distributor
+fuel filter
+fuel filter seal
+fuel injector
+fuel injector nozzle
+fuel line
+fuel pump
+fuel pump gasket
+fuel pressure regulator
+fuel rail
+fuel tank
+fuel tank cover
+fuel water separator
+intake manifold
+intake manifold gasket
+lpg (liquefied petroleum gas) system assembly
+throttle body
+suspension and steering systems
+axle
+camber arm
+control arm
+beam axle
+idler arm
+kingpin
+lateral link
+pan-hard rod
+pit-man arm
+power steering assembly and component
+rack end
+shock absorber
+spindle
+spring
+air spring
+coil spring
+leaf and parabolic leaf spring
+ball joint
+rubber spring
+spiral spring
+stabilizer bars and link
+steering arm
+steering box
+steering column assembly
+steering rack 
+steering shaft
+steering wheel
+strut
+stub axle
+suspension link and bolt
+sway bar link
+tie bar
+tie rod
+tie rod end
+track bar
+toe link
+trailing arm
+transmission system
+adjustable pedal
+axle shaft
+bell housing
+universal joint
+other belts
+carrier assembly
+chain wheel and sprocket
+clutch assembly
+clutch cable
+clutch disk
+clutch fan
+clutch fork
+clutch hose
+clutch lever
+clutch lining
+clutch pedal
+clutch pressure plate
+clutch shoe
+clutch spring
+differential
+differential case
+pinion bearing
+differential clutch
+spider gears
+differential casing
+differential flange
+differential gear
+differential seal
+flywheel
+flywheel ring gear
+gear
+gear coupling
+gear pump
+gear ring
+gear stick
+gearbox
+idler gear
+knuckle
+master cylinder
+output shaft
+pinion
+planetary gear set
+prop shaft
+shift cable
+shift fork
+shift knob
+shift lever
+slave cylinder
+speed reducer
+speedometer gear
+steering gear
+torque converter
+trans-axle housing
+transfer case
+transmission gear
+transmission pan
+transmission seal and bonded piston
+transmission spring
+transmission yoke
+universal joint (uj, card-an joint)
+miscellaneous auto parts
+air conditioning system (a/c)
+see also air conditioning/automobile air conditioners systems.
+a/c clutch
+a/c compressor
+a/c condenser
+a/c hose
+a/c kit
+a/c relay
+a/c valve
+a/c expansion valve
+a/c low-pressure valve
+a/c schroeder valve
+a/c inner plate
+a/c cooler
+a/c evaporator
+a/c suction hose pipe
+a/c discharge hose pipe
+a/c gas receiver
+a/c condenser filter
+a/c cabin filter
+grooved ball bearing
+needle bearing
+roller bearing
+sleeve bearing
+wheel bearing
+hose
+fuel vapour hose
+reinforced hose (high-pressure hose)
+non-reinforced hose
+radiator hose
+other miscellaneous parts
+adhesive tape and foil
+air bag
+bolt cap
+bracket (aluminium, iron, and magnesium bracket)
+license plate bracket
+cables
+speedometer cable
+cotter pin
+decal
+dashboard
+center console
+glove compartment
+drag link
+dynamic seal
+fastener
+gasket: flat, moulded, profiled
+hood and trunk release cable
+horn and trumpet horn
+injection-molded parts
+instrument cluster
+label
+mirror
+phone mount
+name plate
+nut
+flange nut
+hex nut
+o-ring
+paint
+rivet
+rubber (extruded and molded)
+screw
+shim
+sun visor
+washer
