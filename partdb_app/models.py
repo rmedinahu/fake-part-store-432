@@ -5,7 +5,7 @@ from django.db import models
 
 
 class CarMake(models.Model):
-    make = models.CharField(max_length=128, unique=True)
+    name = models.CharField(max_length=128, unique=True)
 
 
 class Part(models.Model):
@@ -22,6 +22,7 @@ class Car(models.Model):
 
 class Customer(models.Model):
     name = models.CharField(max_length=128)
+    last_name = models.CharField(max_length=128)
 
 
 class CarPart(models.Model):
