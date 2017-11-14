@@ -10,6 +10,13 @@ from loremipsum import get_sentences
 
 from .models import *
 
+def build_part_nums(n=0):
+    part_nums = []
+    for i in range(n):
+        part_nums.append(i)
+    return part_nums
+
+
 def gen_cars():
     f = open('sample_data/make-models.json', 'r')
     data = json.loads(f.read())
@@ -17,24 +24,40 @@ def gen_cars():
         car_make = CarMake(make=make)
         car_make.save()
         for model in models:
-            for year in range(2015, 2019):
+            for year in range(2010, 2019):
                 car = Car(make=car_make, model=model, year=year)
                 car.save()
     
     print 'Cars in db', Car.objects.all().count()
 
-def gen_parts(num_parts=0):
+def gen_parts(num_parts=None):
     f = open('sample_data/parts.txt', 'r')
     data = []
     for line in f:
         data.append(line.rstrip('\n'))
 
-    for i in range(num_parts):
-        p_num = random.randint(1000, 30000)
-        p_index = random.randint(0, len(data)-1)
-        p = data[p_index]
-        part = Part(num=p_num, name=p, desc=get_sentences(1)[0])
-        part.save()
+    if num_parts:        
+        for i in range(num_parts):
+            p_num = random.randint(1000, 30000)
+            p_index = random.randint(0, len(data)-1)
+            p = data[p_index]
+            part = Part(num=p_num, name=p, desc=get_sentences(1)[0])
+            part.save()
+    else:
+        car_models = Car.objects.all().distinct('model')
+        part_nums = build_part_nums(300000)
+        for car in car_models:
+            for part_name in data:
+                r = random.randint(0, len(part_nums)-1)
+                p_num = part_nums[r]
+                del part_nums[r]                
+                part = Part(num=p_num, name=part_name, desc=get_sentences(1)[0])
+                part.save()
+                cars = Car.objects.filter(model=car.model)
+                for c in cars:
+                    car_part =  CarPart(part=part, car=c)
+                    car_part.save()
+            print 'Generated parts for', car.make.make, car.model        
 
     print 'Parts in db', Part.objects.all().count()
 

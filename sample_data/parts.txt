@@ -129,7 +129,6 @@ ignition magneto
 spark plug
 glow plug
 lighting and signaling system
-main article: automotive lighting
 engine bay lighting
 fog light 
 spotlight
@@ -281,7 +280,6 @@ tyre
 vacuum brake booster
 wheel cylinder 
 wheel stud
-engine components and parts
 diesel engine
 petrol engine
 accessory belt
@@ -508,8 +506,6 @@ transmission spring
 transmission yoke
 universal joint (uj, card-an joint)
 miscellaneous auto parts
-air conditioning system (a/c)
-see also air conditioning/automobile air conditioners systems.
 a/c clutch
 a/c compressor
 a/c condenser
@@ -538,13 +534,11 @@ fuel vapour hose
 reinforced hose (high-pressure hose)
 non-reinforced hose
 radiator hose
-other miscellaneous parts
 adhesive tape and foil
 air bag
 bolt cap
 bracket (aluminium, iron, and magnesium bracket)
 license plate bracket
-cables
 speedometer cable
 cotter pin
 decal
